@@ -1,0 +1,200 @@
+2024-10-09 09:50:38.3836 INFO Connection string loaded successfully. 
+2024-10-09 09:50:38.4160 INFO Starting data export process... 
+2024-10-09 09:50:38.7574 INFO Fetching data from the database... 
+2024-10-09 09:50:39.1151 INFO Data successfully fetched from the database. 
+2024-10-09 09:50:39.1151 INFO Fetched 4 rows from the database. 
+2024-10-09 09:50:39.4477 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Desktop\GetCountryStateCityData_09-10-2024_09-50-39.xlsx 
+2024-10-09 09:50:40.3606 INFO Data exported successfully. 
+2024-10-09 09:50:40.3606 INFO Data export process completed successfully. 
+2024-10-09 09:56:16.4784 INFO Connection string loaded successfully. 
+2024-10-09 09:56:16.5567 INFO Starting data export process... 
+2024-10-09 09:56:16.5567 INFO Fetching data from the database... 
+2024-10-09 09:56:16.8469 INFO Data successfully fetched from the database. 
+2024-10-09 09:56:16.8469 INFO Fetched 4 rows from the database. 
+2024-10-09 09:56:16.8643 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Desktop\GetCountryStateCityData_09-10-2024_09-56-16.xlsx 
+2024-10-09 09:56:17.4338 INFO Data exported successfully. 
+2024-10-09 09:56:17.4338 INFO Data export process completed successfully. 
+2024-10-09 11:41:24.7981 INFO Connection string loaded successfully. 
+2024-10-09 11:41:25.1642 INFO Starting data export process... 
+2024-10-09 11:41:25.1651 INFO Fetching data from the database... 
+2024-10-09 11:41:25.4344 INFO Data successfully fetched from the database. 
+2024-10-09 11:41:25.4344 INFO Fetched 4 rows from the database. 
+2024-10-09 11:41:25.9385 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Desktop\GetCountryStateCityData_09-10-2024_11-41-25.xlsx 
+2024-10-09 11:41:26.9158 INFO Data exported successfully. 
+2024-10-09 11:41:26.9158 INFO Data export process completed successfully. 
+2024-10-09 12:11:47.4157 INFO Connection string loaded successfully. 
+2024-10-09 12:11:48.0462 INFO Starting data export process... 
+2024-10-09 12:11:48.0462 INFO Fetching data from the database... 
+2024-10-09 12:11:48.3096 INFO Data successfully fetched from the database. 
+2024-10-09 12:11:48.3096 INFO Fetched 4 rows from the database. 
+2024-10-09 12:11:49.3362 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Desktop\GetCountryStateCityData_09-10-2024_12-11-48.xlsx 
+2024-10-09 12:11:51.0719 INFO Data exported successfully. 
+2024-10-09 12:11:51.0719 INFO Data export process completed successfully. 
+2024-10-09 13:59:50.6255 INFO Connection string loaded successfully. 
+2024-10-09 13:59:51.0346 INFO Starting data export process... 
+2024-10-09 13:59:51.0346 INFO Fetching data from the database... 
+2024-10-09 13:59:51.2862 INFO Data successfully fetched from the database. 
+2024-10-09 13:59:51.2862 INFO Fetched 4 rows from the database. 
+2024-10-09 14:01:59.1061 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Desktop 
+2024-10-09 14:01:59.5669 ERROR An error occurred while exporting data to Excel. System.ArgumentException: Empty extension is not supported.
+   at ClosedXML.Excel.XLWorkbook.GetSpreadsheetDocumentType(String filePath)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, SaveOptions options)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, Boolean validate, Boolean evaluateFormulae)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file)
+   at DataExportAutomation.Services.ClosedXmlExcelExportService.ExportDataToExcel(DataTable dataTable, String filePath) in D:\.netWorkspace\DataExportAutomation\Services\ClosedXmlExcelExportService.cs:line 26
+2024-10-09 14:01:59.5765 INFO Data export process completed successfully. 
+2024-10-09 14:03:52.8792 INFO Connection string loaded successfully. 
+2024-10-09 14:03:52.9512 INFO Starting data export process... 
+2024-10-09 14:03:52.9512 INFO Fetching data from the database... 
+2024-10-09 14:03:53.2209 INFO Data successfully fetched from the database. 
+2024-10-09 14:03:53.2209 INFO Fetched 4 rows from the database. 
+2024-10-09 14:04:03.6040 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Document 
+2024-10-09 14:04:03.7454 ERROR An error occurred while exporting data to Excel. System.ArgumentException: Empty extension is not supported.
+   at ClosedXML.Excel.XLWorkbook.GetSpreadsheetDocumentType(String filePath)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, SaveOptions options)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, Boolean validate, Boolean evaluateFormulae)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file)
+   at DataExportAutomation.Services.ClosedXmlExcelExportService.ExportDataToExcel(DataTable dataTable, String filePath) in D:\.netWorkspace\DataExportAutomation\Services\ClosedXmlExcelExportService.cs:line 26
+2024-10-09 14:04:03.7454 INFO Data export process completed successfully. 
+2024-10-09 14:18:35.1671 INFO Connection string loaded successfully. 
+2024-10-09 14:18:35.4809 INFO Starting data export process... 
+2024-10-09 14:18:35.4809 INFO Fetching data from the database... 
+2024-10-09 14:18:35.7558 INFO Data successfully fetched from the database. 
+2024-10-09 14:18:35.7595 INFO Fetched 4 rows from the database. 
+2024-10-09 14:18:36.2471 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Document\GetCountryStateCityData_09-10-2024_14-18-35.xlsx 
+2024-10-09 14:18:37.2669 INFO Data exported successfully. 
+2024-10-09 14:18:37.2669 INFO Data export process completed successfully. 
+2024-10-09 14:22:51.9340 INFO Connection string loaded successfully. 
+2024-10-09 14:22:52.0147 INFO Starting data export process... 
+2024-10-09 14:22:52.0147 INFO Fetching data from the database... 
+2024-10-09 14:22:52.2764 INFO Data successfully fetched from the database. 
+2024-10-09 14:22:52.2764 INFO Fetched 4 rows from the database. 
+2024-10-09 14:22:52.2916 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Desktop\GetCountryStateCityData_09-10-2024_14-22-52.xlsx 
+2024-10-09 14:22:52.8168 INFO Data exported successfully. 
+2024-10-09 14:22:52.8168 INFO Data export process completed successfully. 
+2024-10-09 14:34:55.1374 INFO NLog configuration loaded successfully. 
+2024-10-09 14:34:55.5610 INFO Connection string loaded successfully. 
+2024-10-09 14:34:55.8308 INFO Starting data export process... 
+2024-10-09 14:34:55.8308 INFO Fetching data from the database... 
+2024-10-09 14:34:56.1729 INFO Data successfully fetched from the database. 
+2024-10-09 14:34:56.1729 INFO Fetched 4 rows from the database. 
+2024-10-09 14:34:56.6435 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Desktop\GetCountryStateCityData_09-10-2024_14-34-56.xlsx 
+2024-10-09 14:34:57.5604 INFO Data exported successfully. 
+2024-10-09 14:34:57.5604 INFO Data export process completed successfully. 
+2024-10-09 14:36:33.4186 INFO NLog configuration loaded successfully. 
+2024-10-09 14:36:33.5079 INFO Connection string loaded successfully. 
+2024-10-09 14:36:33.5549 INFO Starting data export process... 
+2024-10-09 14:36:33.5562 INFO Fetching data from the database... 
+2024-10-09 14:36:33.8153 ERROR An error occurred while fetching data. Npgsql.PostgresException (0x80004005): 28P01: password authentication failed for user "postgres"
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.Internal.NpgsqlConnector.AuthenticateSASL(List`1 mechanisms, String username, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.Authenticate(String username, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|213_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|33_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|42_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at PostgresConnection.Open() in D:\.netWorkspace\DataExportAutomation\Services\NpgsqlConnection.cs:line 15
+   at PostgresDatabaseService.FetchData() in D:\.netWorkspace\DataExportAutomation\Services\PostgresDatabaseService.cs:line 21
+  Exception data:
+    Severity: FATAL
+    SqlState: 28P01
+    MessageText: password authentication failed for user "postgres"
+    File: auth.c
+    Line: 324
+    Routine: auth_failed
+2024-10-09 14:36:33.8342 ERROR An error occurred during the data export process. Npgsql.PostgresException (0x80004005): 28P01: password authentication failed for user "postgres"
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.Internal.NpgsqlConnector.AuthenticateSASL(List`1 mechanisms, String username, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.Authenticate(String username, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|213_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|33_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|42_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at PostgresConnection.Open() in D:\.netWorkspace\DataExportAutomation\Services\NpgsqlConnection.cs:line 15
+   at PostgresDatabaseService.FetchData() in D:\.netWorkspace\DataExportAutomation\Services\PostgresDatabaseService.cs:line 21
+   at Program.Main(String[] args) in D:\.netWorkspace\DataExportAutomation\Program.cs:line 87
+  Exception data:
+    Severity: FATAL
+    SqlState: 28P01
+    MessageText: password authentication failed for user "postgres"
+    File: auth.c
+    Line: 324
+    Routine: auth_failed
+2024-10-09 14:58:05.0268 INFO NLog configuration loaded successfully. 
+2024-10-09 14:58:05.5004 INFO Connection string loaded successfully. 
+2024-10-09 14:58:05.7854 INFO Starting data export process... 
+2024-10-09 14:58:05.7854 INFO Fetching data from the database... 
+2024-10-09 14:58:06.1022 INFO Data successfully fetched from the database. 
+2024-10-09 14:58:06.1022 INFO Fetched 5 rows from the database. 
+2024-10-09 14:58:06.5539 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Desktop\GetCountryStateCityData_09-10-2024_14-58-06.xlsx 
+2024-10-09 14:58:07.5756 INFO Data exported successfully. 
+2024-10-09 14:58:07.5756 INFO Data export process completed successfully. 
+2024-10-09 16:23:23.9183 INFO NLog configuration loaded successfully. 
+2024-10-09 16:23:24.6993 INFO Connection string loaded successfully. 
+2024-10-09 16:23:25.2239 INFO Starting data export process... 
+2024-10-09 16:23:25.2239 INFO Fetching data from the database... 
+2024-10-09 16:23:25.5241 INFO Data successfully fetched from the database. 
+2024-10-09 16:23:25.5241 INFO Fetched 5 rows from the database. 
+2024-10-09 16:23:26.4168 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Desktop\GetCountryStateCityData_09-10-2024_16-23-25.xlsx 
+2024-10-09 16:23:28.2911 INFO Data exported successfully. 
+2024-10-09 16:23:28.2911 INFO Data export process completed successfully. 
+2024-10-09 17:56:48.4199 INFO NLog configuration loaded successfully. 
+2024-10-09 17:56:50.2914 INFO Connection string loaded successfully. 
+2024-10-09 17:56:50.7584 INFO Starting data export process... 
+2024-10-09 17:56:50.7584 INFO Fetching data from the database... 
+2024-10-09 17:56:51.0980 INFO Data successfully fetched from the database. 
+2024-10-09 17:56:51.0980 INFO Fetched 5 rows from the database. 
+2024-10-09 17:56:51.7744 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Desktop\GetCountryStateCityData_09-10-2024_17-56-51.xlsx 
+2024-10-09 17:56:53.0136 INFO Data exported successfully. 
+2024-10-09 17:56:53.0136 INFO Data export process completed successfully. 
+2024-10-11 13:24:43.1456 INFO NLog configuration loaded successfully. 
+2024-10-11 13:24:43.3683 INFO Connection string loaded successfully. 
+2024-10-11 13:24:44.2590 INFO Starting data export process... 
+2024-10-11 13:24:44.2871 INFO Retrieve data from the database... 
+2024-10-11 13:24:45.4741 INFO Data successfully Retrieve from the database. 
+2024-10-11 13:24:45.5968 INFO Retrieved 5 rows from the database. 
+2024-10-11 13:24:46.9889 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Desktop\GetCountryStateCityData_11-10-2024_13-24-45.xlsx 
+2024-10-11 13:24:48.4450 INFO Data exported successfully. 
+2024-10-11 13:24:48.4450 INFO Data  to the  process completed successfully. 
+2024-10-15 15:26:31.9043 INFO NLog configuration loaded successfully. 
+2024-10-15 15:26:32.8381 INFO Connection string loaded successfully. 
+2024-10-15 15:26:33.6272 INFO Starting data export process... 
+2024-10-15 15:26:33.6272 INFO Retrieve data from the database... 
+2024-10-15 15:26:33.9885 INFO Data successfully Retrieve from the database. 
+2024-10-15 15:26:33.9976 INFO Retrieved 5 rows from the database. 
+2024-10-15 15:26:35.5794 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Desktop\GetCountryStateCityData_15-10-2024_15-26-34.xlsx 
+2024-10-15 15:26:37.9171 INFO Data exported successfully. 
+2024-10-15 15:26:37.9171 INFO Data Export Automation process completed successfully. 
+2024-10-15 15:48:10.5516 INFO NLog configuration loaded successfully. 
+2024-10-15 15:48:11.2271 INFO Connection string loaded successfully. 
+2024-10-15 15:48:11.6798 INFO Starting data export process... 
+2024-10-15 15:48:11.6817 INFO Retrieve data from the database... 
+2024-10-15 15:48:11.9487 INFO Data successfully Retrieve from the database. 
+2024-10-15 15:48:11.9487 INFO Retrieved 5 rows from the database. 
+2024-10-15 15:48:12.7998 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Desktop\GetCountryStateCityData_15-10-2024_15-48-11.xlsx 
+2024-10-15 15:48:14.2949 INFO Data exported successfully. 
+2024-10-15 15:48:14.2949 INFO Data Export Automation process completed successfully. 
+2024-10-16 17:44:55.5556 INFO NLog configuration loaded successfully. 
+2024-10-16 17:44:56.3205 INFO Connection string loaded successfully. 
+2024-10-16 17:44:56.6774 INFO Starting data export process... 
+2024-10-16 17:44:56.6774 INFO Retrieve data from the database... 
+2024-10-16 17:44:57.2302 INFO Data successfully Retrieve from the database. 
+2024-10-16 17:44:57.2957 INFO Retrieved 5 rows from the database. 
+2024-10-16 17:44:58.5920 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Desktop\GetCountryStateCityData_16-10-2024_17-44-57.xlsx 
+2024-10-16 17:45:02.8697 INFO Data exported successfully. 
+2024-10-16 17:45:02.8697 INFO Data Export Automation process completed successfully. 
+2024-10-24 10:02:53.0935 INFO NLog configuration loaded successfully. 
+2024-10-24 10:02:53.7093 INFO Connection string loaded successfully. 
+2024-10-24 10:02:54.1753 INFO Starting data export process... 
+2024-10-24 10:02:54.1753 INFO Retrieve data from the database... 
+2024-10-24 10:02:54.4699 INFO Data successfully retrieved from the database. 
+2024-10-24 10:02:54.4699 INFO Retrieved 5 rows from the database. 
+2024-10-24 10:02:55.1416 INFO Exporting data to Excel file at: D:\OneDrive - ERP Logic LLC\Desktop\GetCountryStateCityData_24-10-2024_10-02-54.xlsx 
+2024-10-24 10:02:56.6414 INFO Data exported successfully. 
+2024-10-24 10:02:56.6414 INFO Data Export Automation process completed successfully. 
